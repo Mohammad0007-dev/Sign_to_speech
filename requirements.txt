@@ -1,0 +1,10 @@
+cvzone==1.6.1
+keras==2.13.1
+numpy==1.24.3
+opencv-python==4.9.0.80
+pyttsx3==2.90
+scikit-learn==1.4.2
+tensorflow==2.13.0
+
+
+Make sure that u import these libraries with same version, if not possible you may go with any version.
