@@ -23,6 +23,8 @@ This project implements a machine learning system that converts sign language ge
 
 ##
 Model was trained using Teachable Machine by google.
+##
+Please check `Report.docx` or `Presentation 1.pptx` for detailed explanation.
 
 ## ⚙️ Installation
 
